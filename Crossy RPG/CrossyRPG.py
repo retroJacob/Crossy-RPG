@@ -1,6 +1,6 @@
 # Gain access to the pygame library
 import pygame
-import winsound
+
 # Size of the screen
 SCREEN_TITLE = 'Crossy RPG'
 SCREEN_WIDTH = 800
